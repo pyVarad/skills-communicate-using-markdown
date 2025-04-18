@@ -7,3 +7,8 @@
 
 
 ![Tom and Jerry](https://m.media-amazon.com/images/I/517yRBCPaGL.jpg)
+
+``` python
+a = []
+a.append(1)
+```
