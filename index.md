@@ -12,3 +12,7 @@
 a = []
 a.append(1)
 ```
+
+- [ ] Python
+- [ ] Java
+- [ ] JavaScript
