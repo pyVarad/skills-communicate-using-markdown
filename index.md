@@ -16,3 +16,8 @@ a.append(1)
 - [ ] Python
 - [ ] Java
 - [ ] JavaScript
+
+
+- [x] React and Angular
+- [x] Spring and Reactive
+- [ ] Fast API and Django
